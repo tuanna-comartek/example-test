@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.sub-campaigns-content{
+  overflow: auto;
+}
+
+
+.check-box-input{
+  width: 20px;
+}
+.check-box-input fieldset{
+  border: none;
+}
